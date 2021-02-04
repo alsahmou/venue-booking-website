@@ -1,7 +1,7 @@
 Venues, Artists and Shows Matching Website
 -----
 
-<img src="https://i.imgur.com/E3zOgJV.png[/img]" width="100%">.
+<img src="https://i.imgur.com/E3zOgJV.png[/img]" width="100%">
 
 ## Introduction
 
