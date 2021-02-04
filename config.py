@@ -9,4 +9,4 @@ DEBUG = True
 # Connect to the database
 
 
-SQLALCHEMY_DATABASE_URI = 'postgresql://postgres:hghghg@localhost:5432/fyyur'
+SQLALCHEMY_DATABASE_URI = 'postgresql://username:password@localhost:5432/venue-artist-db'
