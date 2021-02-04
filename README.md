@@ -1,7 +1,7 @@
 Venues, Artists and Shows Matching Website
 -----
 
-<img src="https://imgur.com/E3zOgJV" width="40%">
+<img src="https://i.imgur.com/E3zOgJV.png[/img]" width="40%">.
 
 ## Introduction
 
@@ -10,7 +10,7 @@ The application is a musical venue and artist booking site that facilitates the 
 ## Tech Stack (Dependencies)
 
 ### 1. Backend Dependencies
-Our tech stack will include the following:
+The tech stack will include the following:
  * **virtualenv** as a tool to create isolated Python environments
  * **SQLAlchemy ORM** to be our ORM library of choice
  * **PostgreSQL** as my database of choice
@@ -76,7 +76,7 @@ Highlight folders:
 * Models in `app.py` -- (Missing functionality.) Defines the data models that set up the database tables.
 * `config.py` -- (Missing functionality.) Stores configuration variables and instructions, separate from the main application code. This is where you will need to connect to the database.
 
-## Setup and Running
+## Setup and Run
 1. **Download the project starter code locally**
 ```
 git clone https://github.com/alsahmou/venue-booking-website
