@@ -12,9 +12,9 @@ The application is a musical venue and artist booking site that facilitates the 
 ### 1. Backend Dependencies
 The tech stack will include the following:
  * **virtualenv** as a tool to create isolated Python environments
- * **SQLAlchemy ORM** to be our ORM library of choice
- * **PostgreSQL** as my database of choice
- * **Python3** and **Flask** as my server language and server framework
+ * **SQLAlchemy ORM** to be the ORM library of choice
+ * **PostgreSQL** as the database of choice
+ * **Python3** and **Flask** as the server language and server framework
  * **Flask-Migrate** for creating and running schema migrations
 You can download and install the dependencies mentioned above using `pip` as:
 ```
